@@ -52,7 +52,9 @@
             android:id="@+id/send_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="決定" />
+            android:background="@color/colorPrimaryDark"
+            android:textColor="#FFF"
+            android:text="Edit" />
 
     </LinearLayout>
     </LinearLayout>

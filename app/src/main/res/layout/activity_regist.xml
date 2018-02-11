@@ -51,7 +51,9 @@
                 android:id="@+id/send_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="登録する" />
+                android:background="@color/colorPrimaryDark"
+                android:textColor="#FFF"
+                android:text="Submit" />
 
         </LinearLayout>
 
