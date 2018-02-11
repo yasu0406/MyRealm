@@ -51,9 +51,9 @@
                 android:id="@+id/send_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/colorPrimaryDark"
-                android:textColor="#FFF"
-                android:text="Submit" />
+                android:background="?attr/actionModeSplitBackground"
+                android:text="Submit"
+                android:textColor="#FFF" />
 
         </LinearLayout>
 
